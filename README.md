@@ -4,7 +4,7 @@ Data analysis of Stack Overflow's developer survey data from 2020
 
 ## Project Motivation
 
-This project is intended for confused developers (such as myself!) who have many **What, When and How** questions. It will attempt to help them make infromed decisions regarding their education and career. All my finding are published in the [Confusion of a Developer](https://medium.com) medium post.
+This project is intended for confused developers (such as myself!) who have many **What, When and How** questions. It will attempt to help them make infromed decisions regarding their education and career. All my finding are published in the [Confusion of a Developer](https://waadyk.medium.com/confusion-of-a-developer-b4b03df52a83) medium post.
 
 ## Analysis Findings
  1. We compiled our expectations for advancements in the software development technologies. We identified which technologies still have people's attention and which ones we should steer away from.

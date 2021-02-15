@@ -1,4 +1,5 @@
-# Data analysis of Stack Overflow's developer survey data from 2020
+# Confusion of a Developer
+Data analysis of Stack Overflow's developer survey data from 2020
 
 
 ## Project Motivation
@@ -21,9 +22,9 @@ Looked at the importance of education on the developers future and the best time
 1. You will need to have Python3 and Jupiter Notebook to lood the project. 
 2. I have been using VS Code with python and Jupiter extension. Feel free to follow the same approach or configure your own enviroemnt. 
 3. You will need to have the following libararies, you can install them using the pip3 command
-  * pandas
-  * numpy
-  * matplotlib
+   * pandas
+   * numpy
+   * matplotlib
 
 ## Reference:
 This repository uses data from [Stack Overflow](https://insights.stackoverflow.com/survey).
